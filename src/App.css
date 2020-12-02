@@ -24,6 +24,7 @@ header h1 {
   width: 400px;
   margin: 10px 15px;
   border: 2px solid rgba(0, 0, 0, 0.171);
+  height: 500px;
 }
 
 .movie-card:hover {
@@ -37,7 +38,8 @@ header h1 {
 }
 .movie-card img {
   width: 100%;
-  height: 400px;
+  height: 300px;
+  margin-bottom: 50px;
 }
 .staar{
   cursor: pointer;
@@ -80,3 +82,13 @@ header h1 {
   width: 100%;
   text-align: center;
 }
+
+h2{
+  text-align: center;
+  color:rgba(0, 0, 255, 0.623)
+}
+.home{
+  text-align: center;
+}
+
+    
